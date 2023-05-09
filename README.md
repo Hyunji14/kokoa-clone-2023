@@ -1,3 +1,3 @@
 # Kokoa clone 2023
 
-HTML and CSS go better!
+HTML and CSS are so much fun!
